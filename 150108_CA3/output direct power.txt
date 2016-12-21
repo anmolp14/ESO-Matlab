@@ -1,0 +1,11 @@
+Eigenvalue 
+ 10.7787 
+ 
+Eigenvector 
+  
+ -2.8831  
+ -2.7553  
+ 10.7787 
+ 
+ Number of iterations 
+ 30
